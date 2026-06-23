@@ -1,0 +1,22 @@
+# Code Quality
+
+Requirements:
+
+- Small components
+- Clear naming
+- No duplicated logic
+- Strong typing
+
+Preferred:
+
+PuzzleBoard.tsx
+PuzzlePiece.tsx
+ImageUploader.tsx
+
+Avoid:
+
+PuzzleMegaManager.tsx
+UniversalGameEngine.tsx
+GenericPuzzleFactory.tsx
+
+Keep implementation straightforward.

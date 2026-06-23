@@ -1,0 +1,31 @@
+# Gameplay Rules
+
+The puzzle experience must be simple.
+
+Supported grid sizes:
+
+- 2x2
+- 3x3
+- 4x4
+- 5x5
+- 6x6
+
+Puzzle generation:
+
+1. Upload image.
+2. Slice image.
+3. Shuffle pieces.
+4. Allow movement.
+5. Detect completion.
+
+Victory conditions:
+
+All pieces are in correct positions.
+
+Hint System:
+
+Reveal one correct placement.
+
+Ghost Mode:
+
+Display original image at 20% opacity.

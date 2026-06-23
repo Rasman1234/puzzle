@@ -1,0 +1,31 @@
+# Project Rules
+
+This is a small educational puzzle game.
+
+Always prefer:
+
+- Simpler code
+- Fewer files
+- Fewer abstractions
+- Readability
+
+Avoid:
+
+- Overengineering
+- Complex design patterns
+- Generic frameworks
+- Premature optimization
+
+Rules:
+
+1. Functional React components only.
+2. TypeScript strict mode.
+3. No class components.
+4. No Redux.
+5. No Zustand unless explicitly requested.
+6. No backend code.
+7. No API layers.
+8. No dependency injection.
+9. No enterprise architecture patterns.
+
+Every feature must justify its complexity.

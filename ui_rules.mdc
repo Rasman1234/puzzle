@@ -1,0 +1,21 @@
+# UI Rules
+
+Target audience:
+Children aged 4-10.
+
+UI must be:
+
+- Colorful
+- Friendly
+- Accessible
+- Large touch targets
+
+Requirements:
+
+- Buttons minimum 48px height.
+- Puzzle pieces must remain usable on tablets.
+- Avoid small text.
+- Avoid crowded layouts.
+- Keep interaction obvious.
+
+Always prioritize usability over aesthetics.
